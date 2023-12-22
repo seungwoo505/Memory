@@ -225,7 +225,7 @@ function Game(props){
                         color={"red"}
                         title="종료"
                         onPress={()=>{
-                            fetch("https://seungwoo.i234.me/creat_or_updateRank.php", {
+                            fetch("https://seungwoo.i234.me/creatRank.php", {
                                 method: "POST",
                                 body: JSON.stringify({
                                     Id: name,
