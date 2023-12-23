@@ -4,7 +4,7 @@
 
 ![Test](https://github.com/seungwoo505/Memory/blob/main/testGame.gif)
 
-<https://github.com/seungwoo505/Memory/blob/main/testGame.gif>
+<https://github.com/seungwoo505/Memory/blob/main/testGame.mov>
 
 깔끔한 영상을 보고 싶으시면 위의 링크를 통해 확인해주시면 됩니다.
 
