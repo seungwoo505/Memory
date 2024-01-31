@@ -1,5 +1,9 @@
 # 기억력 테스트 게임
 
+## 개요
+
+1인 개발입니다.
+
 ## UI/UX
 
 ![Test](https://github.com/seungwoo505/Memory/blob/main/testGame.gif)
