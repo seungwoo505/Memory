@@ -4,6 +4,8 @@
 
 1인 개발입니다.
 
+제작 기간 : 2023.09 ~ 2023.11
+
 ## UI/UX
 
 ![Test](https://github.com/seungwoo505/Memory/blob/main/testGame.gif)
