@@ -1,13 +1,11 @@
 # 기억력 테스트 게임
 
 ## 개요
-
 1인 개발입니다.
 
 제작 기간 : 2023.09 ~ 2023.11
 
 ## UI/UX
-
 ![Test](https://github.com/seungwoo505/Memory/blob/main/testGame.gif)
 
 <https://github.com/seungwoo505/Memory/blob/main/testGame.mov>
@@ -36,7 +34,6 @@
 초반에는 감소되는 크기가 크지만 스테이지가 증가하면 난이도가 점점 커지므로 감소되는 크기가 작아지게 설계했습니다.
 
 ## 사용된 개념
-
 - ReactNative
 - PHP
 - MariaDB
