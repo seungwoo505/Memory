@@ -7,7 +7,7 @@ $body = (array) json_decode($bodys);
 $Rank = $body[Rank];
  
 //MySQL DB에 접속하기
-$conn=mysqli_connect("seungwoo.i234.me","seungwoo","Seungwoo50500.*.*","project", "3300");
+$conn=mysqli_connect("seungwoo.i234.me","id","password","project", "3300");
  
 //한긓깨짐 방지
 mysqli_query($conn,"set names utf8");
