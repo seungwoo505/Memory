@@ -6,7 +6,7 @@ function CheckRank({navigation, route}){
     const [RankList, setRankList] = useState([]);
     useEffect(() => {
         fetch("https://seungwoo.i234.me/loadRank.php", {
-            method: "GET",
+            method: "POST",
             body: JSON.stringify({
                 Rank: route.params.Rank
             })
