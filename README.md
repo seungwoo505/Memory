@@ -6,7 +6,7 @@
 제작 기간 : 2023.09 ~ 2023.11
 
 ## UI/UX
-![Test](https://github.com/seungwoo505/Memory/blob/main/testGame.gif)
+<img src="https://github.com/seungwoo505/Memory/blob/main/testGame.gif" height="500"/>
 
 <https://github.com/seungwoo505/Memory/blob/main/testGame.mov>
 
